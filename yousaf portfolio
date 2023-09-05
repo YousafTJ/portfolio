@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="yousaf.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Portfolio</title>
+</head>
+<body>
+<main>Min portfolio
+
+
+
+<h1> Yousaf Tahir Javaid
+
+
+
+</h1>
+<hr>
+<section>
+<h2 class="name">Hej mit navn er Yousaf Tahir Javaid, og dette er min portfolio.</h2>
+<p class="i-am">Jeg er 19 år og studerer på KEA - københavnsk erhvervsakedemi under uddannelsen
+    <a class="it" style="text-decoration: none;" href="https://kea.dk/uddannelser/professionsbachelor/it-arkitektur">It-arkitektur.</a>
+    I min fritid arbejder jeg ved siden af mit job, og derudover dyrker jeg en masse sport
+</section>
+<ul class="activities">
+
+    <li>Vægtløftning</li>
+    <li>Muay thai</li>
+    <li>Fodbold</li>
+    <li>Padle</li>
+
+</ul>
+<p class="pictures">
+    <img src="https://attachment.outlook.live.net/owa/MSA%3Ayoujav%40hotmail.com/service.svc/s/GetAttachmentThumbnail?id=AQMkADAwATZiZmYAZC1mMzEyLWY3YjktMDACLTAwCgBGAAADFfnyl7xJnECjX0YngTaXkwcAK9uZKj81RE%2BBZw0RXtPqLgAAAgEMAAAAK9uZKj81RE%2BBZw0RXtPqLgAG6jIPMQAAAAESABAA8VxcAG3S%2B5NCpjHb2FY214E%3D&thumbnailType=2&isc=1&token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjczRkI5QkJFRjYzNjc4RDRGN0U4NEI0NDBCQUJCMTJBMzM5RDlGOTgiLCJ0eXAiOiJKV1QiLCJ4NXQiOiJjX3VidnZZMmVOVDM2RXRFQzZ1eEtqT2RuNWcifQ.eyJvcmlnaW4iOiJodHRwczovL291dGxvb2subGl2ZS5jb20iLCJ1YyI6ImFmODdlMGYxYTE3NjQ4ZGE4MDc4Mjk4YzNhZjYyNDc0IiwidmVyIjoiRXhjaGFuZ2UuQ2FsbGJhY2suVjEiLCJhcHBjdHhzZW5kZXIiOiJPd2FEb3dubG9hZEA4NGRmOWU3Zi1lOWY2LTQwYWYtYjQzNS1hYWFhYWFhYWFhYWEiLCJpc3NyaW5nIjoiV1ciLCJhcHBjdHgiOiJ7XCJtc2V4Y2hwcm90XCI6XCJvd2FcIixcInB1aWRcIjpcIjE4OTk5NDcyODYwMDE1OTNcIixcInNjb3BlXCI6XCJPd2FEb3dubG9hZFwiLFwib2lkXCI6XCIwMDA2YmZmZC1mMzEyLWY3YjktMDAwMC0wMDAwMDAwMDAwMDBcIixcInByaW1hcnlzaWRcIjpcIlMtMS0yODI3LTQ0MjM2NS00MDc4MTA2NTUzXCJ9IiwibmJmIjoxNjkzOTEwMTEzLCJleHAiOjE2OTM5MTA3MTMsImlzcyI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMEA4NGRmOWU3Zi1lOWY2LTQwYWYtYjQzNS1hYWFhYWFhYWFhYWEiLCJhdWQiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYXR0YWNobWVudC5vdXRsb29rLmxpdmUubmV0QDg0ZGY5ZTdmLWU5ZjYtNDBhZi1iNDM1LWFhYWFhYWFhYWFhYSIsImhhcHAiOiJvd2EifQ.I6pCLoaXzC3Xa75ljC8G_L0chtx0KceiH2eIHZz-i2Ymt_JshKzUbnt-CGcV9Gg8x36SYcsolx3tPeeaCtirda2jrxHMa_farqwX3nXwOattbbyByzXDUcUADGTMXAjgK1B1Afr__ZwR7ociwgc8cqaIGwtbCzRrAFumDAprL5yZWPt-uZb6hQqWegiFlCdJq8HfdmKXW580O9oXwOa5EGyBmAYiIe51f5YnffZAh6Nie8Nbeb1iZgB7HPO0VL9IhFsTONpzSRqSWj9UXNFwPxhwYwz-KE6eZvT9psRVnl4CWb4AZw0bNeZgY4tZsnWIymLTUWgpkjW505lBNLkVFQ&X-OWA-CANARY=KlTDah4u40SUiNHcoxhfIhBOqM_7rdsYdo5jZo_ByEXEbjVBx8Toe3gVX03Th2oyiV1DGF47lSE.&owa=outlook.live.com&scriptVer=20230825006.08&animation=true" width="350" height="450">
+    <img class="gif" src="https://media2.giphy.com/media/4oMoIbIQrvCjm/200w.gif?cid=6c09b9520ylrev71c9vmp2easo1epu5mw8jmj0tmrwcq5928&ep=v1_gifs_search&rid=200w.gif&ct=g">
+
+
+
+    <style>
+        body {
+            background-image: url('https://wallpapers.com/images/featured/iphone-x-0pu7qjbgrvvpaj13.jpg');
+        }
+    </style>
+
+</p>
+<hr class="ending">
+<footer>
+
+    Karriere
+    <ul class="carriere">
+        <li>Normal - butiksassistent
+            <img src="https://www.helsingorguiden.dk/wp-content/uploads/2020/06/Normal.jpg" width="25">
+        </li>
+        <li>Føtex - kasseassistent
+            <img src="https://via.ritzau.dk/data/images/00843/7bd3bb38-962f-4f68-aab4-df59d3f8a81d-w_960_h_960.png" width="35">
+        </li>
+        <li>Burger king - butiksmedarbejder
+            <img src="https://logos-world.net/wp-content/uploads/2020/05/Burger-King-Logo.png" width="40">
+        </li>
+        <li>Ikea - salgsmedarbejder
+            <img src="https://logosmarcas.net/wp-content/uploads/2020/09/IKEA-Logo.png" width="30">
+        </li>
+
+    </ul>
+    Uddannelse
+<ul>
+    <li>
+    <a href="https://nielsbrock.dk/handelsgymnasier/innovationsgymnasiet/hhx-innovation-og-startup">
+        <img src="https://play-lh.googleusercontent.com/uNew7j20T1RudXoUO0Xq5bDYHwlOJQl2Vlo5NT4hNayEwu6IJAu5jhWIiNlJaOsFvMF2" width="25">
+    </a>Niels brock innovationsgymnasie</li>
+
+       <li> KEA - københavnskerhvervsakademi - It-arkitektur
+           <a href="https://kea.dk/">
+               <img src="https://kea.dk/images/DA/Presse/Downloads/KEA_logo_DK_Web.jpg" width="50">
+           </a>
+
+       </li>
+
+    </ul>
+
+
+
+    Lidt om mig:
+
+    <ol class="me">
+        <li>Jeg har 3 søskende</li>
+        <li>Jeg 19 år</li>
+        <li>
+            <button class="onkel">
+                <a class="uncle" style="text-decoration:none;" href="https://attachment.outlook.live.net/owa/MSA%3Ayoujav%40hotmail.com/service.svc/s/GetAttachmentThumbnail?id=AQMkADAwATZiZmYAZC1mMzEyLWY3YjktMDACLTAwCgBGAAADFfnyl7xJnECjX0YngTaXkwcAK9uZKj81RE%2BBZw0RXtPqLgAAAgEMAAAAK9uZKj81RE%2BBZw0RXtPqLgAG6WssDQAAAAESABAAhVCQ2ZpFy0CcNM4daCvYlg%3D%3D&thumbnailType=2&isc=1&token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjczRkI5QkJFRjYzNjc4RDRGN0U4NEI0NDBCQUJCMTJBMzM5RDlGOTgiLCJ0eXAiOiJKV1QiLCJ4NXQiOiJjX3VidnZZMmVOVDM2RXRFQzZ1eEtqT2RuNWcifQ.eyJvcmlnaW4iOiJodHRwczovL291dGxvb2subGl2ZS5jb20iLCJ1YyI6ImY1YTNkMjkxMjNjMjQxOGQ5YjVjNzg4ZWJjNGNjMzgzIiwidmVyIjoiRXhjaGFuZ2UuQ2FsbGJhY2suVjEiLCJhcHBjdHhzZW5kZXIiOiJPd2FEb3dubG9hZEA4NGRmOWU3Zi1lOWY2LTQwYWYtYjQzNS1hYWFhYWFhYWFhYWEiLCJpc3NyaW5nIjoiV1ciLCJhcHBjdHgiOiJ7XCJtc2V4Y2hwcm90XCI6XCJvd2FcIixcInB1aWRcIjpcIjE4OTk5NDcyODYwMDE1OTNcIixcInNjb3BlXCI6XCJPd2FEb3dubG9hZFwiLFwib2lkXCI6XCIwMDA2YmZmZC1mMzEyLWY3YjktMDAwMC0wMDAwMDAwMDAwMDBcIixcInByaW1hcnlzaWRcIjpcIlMtMS0yODI3LTQ0MjM2NS00MDc4MTA2NTUzXCJ9IiwibmJmIjoxNjkzNzcxNDA3LCJleHAiOjE2OTM3NzIwMDcsImlzcyI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMEA4NGRmOWU3Zi1lOWY2LTQwYWYtYjQzNS1hYWFhYWFhYWFhYWEiLCJhdWQiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYXR0YWNobWVudC5vdXRsb29rLmxpdmUubmV0QDg0ZGY5ZTdmLWU5ZjYtNDBhZi1iNDM1LWFhYWFhYWFhYWFhYSIsImhhcHAiOiJvd2EifQ.CEukxUHL4C63HO_DNAlpHeZq7mTz8uT_wcj1Yjn3s5g80WxtZ19YkBJMRyco9ZpDFh-lYwRUHJYZgkuapQnS17l5SgC6DHOi4MgZExsJgrkXgMYSsDvQ6erS00IvdZVFM9oQW1e_znPnHDd7oTsxz_czt_0lxWkG3sDpwiJsiRg3zvATtOMC6tqM1jtif-8fnKy8wKfUIHHwi-OlquwHi23llUtax_W0PRNQbysZBn-PsQbFBxMWPia0f613vVmclMO4LHmBbOCT45utKzIa2x6scrGgiZ6N1ERzltgjDWSlqXlJ8J9cCkQwthMIo8xXD9MAql0xsZzpoyw4s728XA&X-OWA-CANARY=ekg1dLV7YkqRATIltmJZl1BiW9i4rNsYQIVqvLP46_C1pJ3f-L1F33FWPOWw3xZ1MHMiPdkpR5g.&owa=outlook.live.com&scriptVer=20230818006.09&animation=true">Jeg er onkel</a>
+            </button>
+        </li>
+    </ol>
+
+
+</footer>
+<nav class="social">
+    <a target="_blank" href="https://dk.linkedin.com/in/yousaf-javaid-277285230"
+       title="Yousaf Tahir Javaid LinkedIn"> <img src="data:image/png;base64,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" width="45x45">
+
+    </a>
+
+    <a href=mailto:youjav@hotmail.com>
+        <img src="https://play-lh.googleusercontent.com/Zk9elS0eGXDr0L4W6-Ey7YwHbRNjkyezHC8iCc8rWp64lNIjlByS8TDF9qDSZbiEWY4=w240-h480-rw" width="50x50">
+
+    </a>
+
+    <a href="https://www.instagram.com/yousaf.j0/">
+
+        <img src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg?w=2000" width="50x50">
+    </a>
+</nav>
+</main>
+
+
+</body>
+</html>
