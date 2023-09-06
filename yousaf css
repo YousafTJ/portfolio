@@ -1,0 +1,151 @@
+*{
+    text-shadow: 3px 3px 5px black;
+
+}
+
+.my-portfolio{
+    background-color: darkblue;
+
+}
+
+body{
+    width: 100%;
+}
+
+
+footer {
+    display: flex;
+    justify-content: flex-start;
+font-size: larger;
+    color: black;
+}
+
+button {
+    font-weight: bolder;
+    border-radius: 10px;
+    background-color: wheat;
+    box-shadow: 2px 2px 5px black;
+
+}
+
+button:hover{
+    transform: scale(120%);
+}
+
+.uncle{
+    color: black;
+    text-shadow: 0px 0px 0px;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    color: wheat;
+    background-color: wheat;
+border-radius: 35px;
+    background-position: center;
+    width: 220px;
+}
+
+.social:hover{
+
+    transform: scale(130%);
+}
+
+.activities{
+color: wheat;
+
+}
+
+.information{
+
+    background-color: darkblue;
+    border-radius: 35px;
+}
+
+.pictures {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.picture-me:hover{
+    transform: scale(130%);
+}
+
+.i-am{
+    color: wheat;
+    font-family: Calibri;
+    font-weight: bolder;
+}
+
+.it{
+    color: lightblue;
+}
+
+
+.name{
+    display: flex;
+    justify-content: center;
+    color: wheat;
+}
+
+h1{
+    color: wheat;
+
+}
+
+main{
+    color: wheat;
+    font-weight: bolder;'
+}
+
+
+
+.gif{
+    width: 300px;
+
+}
+ .about-me{
+
+     color: wheat;
+ }
+
+.carriere{
+    display: block;
+    background-color: darkblue;
+    width: 250px;
+    border-radius: 35px;
+    color: wheat;
+    box-shadow: 5px 5px 10px black;
+}
+
+
+.education{
+    display: inline-block;
+    background-color: darkblue;
+    border-radius: 35px;
+    color: wheat;
+    box-shadow: 5px 5px 10px black;
+}
+
+
+.me{
+    display: grid;
+    background-color: darkblue;
+    border-radius: 35px;
+    color: wheat;
+    background-size: 200px;
+    width: 200px;
+    height: 200px;
+    box-shadow: 5px 5px 10px black;
+}
+
+.c-e-m{
+    display: flex;
+}
+
+@media screen and (max-width: 500px) {
+    .container {
+        background-color: red;
+    }
+}
